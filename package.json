@@ -1,0 +1,12 @@
+{
+  "name": "",
+  "version": "",
+  "license": "MIT",
+  "description": "fs",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "csv-parse": "^2.0.0",
+    "prettyjson": "^1.2.1",
+    "uuid": "^3.2.1"
+  }
+}
